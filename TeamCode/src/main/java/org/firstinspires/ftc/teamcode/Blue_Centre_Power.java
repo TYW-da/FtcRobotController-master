@@ -290,7 +290,6 @@ public class Blue_Centre_Power extends LinearOpMode {
                 teddy(0.9,1.35,0,false);
                 vobla();
                 teddy(-0.4,1.70,0,false);
-
                 break;
 
         }
